@@ -1,1 +1,1 @@
-# JavaScript-Assignments
+# JavaScript-Arithmatic-Assignments
